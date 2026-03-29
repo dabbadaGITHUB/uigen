@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "allow": ["mcp__playwright", "mcp__sqlite", "mcp__filesystem", "mcp__fetch"],
+    "deny": []
+  }
+}
